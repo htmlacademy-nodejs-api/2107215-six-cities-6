@@ -39,9 +39,9 @@ export class TSVFileReader implements FileReader {
         postDate: new Date(createdDate),
         previewImage,
         images: images.split(';')
-          .map((name) => (name)),
+          .map((image) => (image)),
         conveniences: conveniences.split(';')
-          .map((name) => (name)),
+          .map((convenience) => (convenience)),
         description,
         bedrooms: Number.parseInt(bedrooms, 10),
         guests: Number.parseInt(guests, 10),
