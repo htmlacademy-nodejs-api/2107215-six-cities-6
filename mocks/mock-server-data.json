@@ -1,0 +1,125 @@
+{
+  "api": {
+    "conveniences": [
+      "Breakfast",
+      "Air conditioning",
+      "Laptop friendly",
+      "workspace",
+      "Baby seat",
+      "Washer",
+      "Towels",
+      "Fridge"
+    ],
+    "titles": [
+      "Deluxe Hotel",
+      "Luxury Hotel",
+      "Five-star Hotel",
+      "Four-star Hotel",
+      "Three-star Hotel"
+    ],
+    "descriptions": [
+      "The hotel is full of charm and character, with exclusive access to the beach.",
+      "Stay at our hotel and experience a special sojourn with quintessential American charm.",
+      "The hotel comprises five interconnected Victorian era buildings to form a 103 room hotel, all furnished with a blend of style and functionality in mind.",
+      "The hotel offers a comfortable stay in an elegant 19th century architecture, located in the heart of the city center and close to many attractions.",
+      "The hotel is a five-star establishment with luxurious amenities, including a Michelin-starred restaurant and beautifully restored town palace."
+    ],
+    "previewImage": [
+      "https://url-to-image/luxurious-hotel.png",
+      "https://url-to-image/antalya-hotel.png",
+      "https://url-to-image/5-star-luxury.png",
+      "https://url-to-image/luxury-hotel.png",
+      "https://url-to-image/north-west-hotel.png"
+    ],
+    "images": [
+      "https://url-to-image/image.png",
+      "https://url-to-image/image.png",
+      "https://url-to-image/image.png",
+      "https://url-to-image/image.png",
+      "https://url-to-image/image.png",
+      "https://url-to-image/image.png"
+    ],
+    "users": [
+      "Иван Иванов",
+      "Олег Сидоров",
+      "Пьер Безухов",
+      "Роланд Дискейн",
+      "Холи Гибни",
+      "Джек Торренс",
+      "Антон Городецкий",
+      "Борис Гесер",
+      "Рокки Бальбоа",
+      "Джон Смит"
+    ],
+    "emails": [
+      "snow@pisem.local",
+      "president@dka.local",
+      "fish@big.local",
+      "test@pisem.local",
+      "freedom@pisem.local"
+    ],
+    "avatars": [
+      "https://url-to-image/user.jpg",
+      "https://url-to-image/photo.jpg",
+      "https://url-to-image/awesome-avatar.jpg",
+      "https://url-to-image/roland.jpg",
+      "https://url-to-image/smite.jpg"
+    ],
+    "types": [
+      "Apartment",
+      "House",
+      "Room",
+      "Hotel"
+    ],
+    "location": [
+      {
+        "latitude": 48.85661,
+        "longitude": 2.351499
+      }
+    ],
+    "cities": [
+      {
+        "name": "Paris",
+        "location": {
+          "latitude": 48.85661,
+          "longitude": 2.351499
+        }
+      },
+      {
+        "name": "Cologne",
+        "location": {
+          "latitude": 50.938361,
+          "longitude": 6.959974
+        }
+      },
+      {
+        "name": "Brussels",
+        "location": {
+          "latitude": 50.846557,
+          "longitude":  4.351697
+        }
+      },
+      {
+        "name": "Amsterdam",
+        "location": {
+          "latitude": 52.370216,
+          "longitude":  4.895168
+        }
+      },
+      {
+        "name": "Hamburg",
+        "location": {
+          "latitude": 53.550341,
+          "longitude":  10.000654
+        }
+      },
+      {
+        "name": "Dusseldorf",
+        "location": {
+          "latitude": 51.225402,
+          "longitude": 6.776314
+        }
+      }
+    ]
+  }
+}
